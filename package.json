@@ -1,0 +1,17 @@
+{
+  "name": "reddit-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saish Narvekar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "request": "^2.88.0",
+    "snoowrap": "^1.19.0",
+    "yargs": "^13.2.4"
+  }
+}
